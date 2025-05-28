@@ -1,7 +1,9 @@
 {
   "kos_players": {
     "Voltaria__": "griefing",
-    "MonkeyPorcupine": "dangerous",
     "Rauhallinen": "attacking for no reason"
+  },
+  "temporarily_removed_kos": {
+    "MonkeyPorcupine": "N/A"
   }
 }
